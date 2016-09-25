@@ -1,6 +1,6 @@
 {
   "name": "miniopt",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A minimal option parser.",
   "license": "MIT",
   "repository": "egoist/miniopt",
